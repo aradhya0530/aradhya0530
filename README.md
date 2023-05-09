@@ -8,9 +8,7 @@
 <br>
 <br>
 
-<p align="left">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&weight=800&size=25&pause=&color=DF6D74&width=435&lines=Welcome+to+my+GitHub+Profile;I'm+a+React+Engineer;I'm+a+Frontend+Developer;I'm+a+Android+Developer" /></a>
- </p>
+
 
  ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4124786+%20Lines%20of%20code-blue)
 
