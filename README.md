@@ -12,12 +12,14 @@
 
  ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4124786+%20Lines%20of%20code-blue)
 
-- 🔭 I’m currently working on **My Self🙃**
-- 🌱 I’m currently learning **new things everyday💫**
+- 🔭 I’m currently working on **improving my skills and learning new ones.😄**
+- 🌱 I’m currently learning **to improve myself day by day.**
 - 👨‍💻 All of my projects are available at [https://aradhyaportfolio.netlify.app/](https://aradhyaportfolio.netlify.app/)
 - 📫 How to reach me aradhyasrivastava0504@gmail.com
 - 📄 Know about my experiences [https://drive.google.com/file/d/18NjNFNMt8K-l4NeEIHkWSbLskT4utJ9_/view](https://drive.google.com/file/d/18NjNFNMt8K-l4NeEIHkWSbLskT4utJ9_/view)
-- ⚡ Fun fact **I think I am a good Analyst.**
+- 👯 I’m collaborator in kaggle, and looking for more collaboration.
+- 🥅 2023 Goals:  Explore the more in areas of Machine Learning , Visualisation, Analysis
+- ⚡ Fun fact **I think I like to Analyse.**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -50,7 +52,7 @@
   
   [![Nayan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aradhya0530&bg_color=000000&color=DF6D74&line=E4BF7A&point=f0f0f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
-#e4bf7a
+
 </p>
 <br>
 <!-- Visitors -->
