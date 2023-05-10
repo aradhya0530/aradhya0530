@@ -18,7 +18,7 @@
 - 📫 How to reach me aradhyasrivastava0504@gmail.com
 - 📄 Know about my experiences [https://drive.google.com/file/d/18NjNFNMt8K-l4NeEIHkWSbLskT4utJ9_/view](https://drive.google.com/file/d/18NjNFNMt8K-l4NeEIHkWSbLskT4utJ9_/view)
 - 👯 I’m collaborator in kaggle, and looking for more collaboration.
-- 🥅 2023 Goals:  Explore the more in areas of Machine Learning , Visualisation, Analysis
+- 🥅 2023 Goals:  Explore more in areas of Machine Learning , Visualisation, Analysis
 - ⚡ Fun fact **I think I like to Analyse.**
 <br>
 <h3 align="left">Connect with me:</h3>
