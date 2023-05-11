@@ -35,7 +35,7 @@
  </a>
  
 <a href="https://www.w3schools.com/html/html_css.asp" target="_blank" rel="noreferrer"> 
-<img src=".icons/html css.jpg" alt="html css" width="40" height="40"/>
+<img src="icons/html css.jpg" alt="html css" width="40" height="40"/>
 </a> 
  
 <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> 
