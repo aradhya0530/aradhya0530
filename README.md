@@ -1,15 +1,9 @@
 <b> Hi there, <i>I'm Aradhya Srivastava</i></b> 👋
-
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-
-
 <br>
 <i>I'm an aspiring Data Analyst from Vellore Institute Of Technology , Bhopal</i>
 <br>
 <br>
-
-
-
  ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-41247+%20Lines%20of%20code-blue)
 
 - 🔭 I’m currently working on **my skills and learning new ones.😄**
