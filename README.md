@@ -34,7 +34,51 @@
 
 <!--   Tech Stack  -->
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="left"> 
+ 
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
+ <img src=".icons/tableau.png" alt="tableau" width="40" height="40"/> 
+ </a>
+ 
+<a href="https://www.w3schools.com/html/html_css.asp" target="_blank" rel="noreferrer"> 
+<img src=".icons/html css.jpg" alt="html css" width="40" height="40"/>
+</a> 
+ 
+<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> 
+ <img src=".icons/colab.png" alt="colab" width="40" height="40"/>
+</a> 
+ 
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+<img src=".icons/seaborn.png" alt="seaborn" width="40" height="40"/>
+</a> 
+ 
+ <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
+  <img src=".icons/java.png" alt="java" width="40" height="40"/>
+ </a> 
+ 
+ <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
+<img src=".icons/matplotlib.png" alt="matplotlib" width="40" height="40"/>
+ </a> 
+ 
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+ <img src=".icons/sql.png" alt="sql" width="40" height="40"/>
+ </a> 
+ 
+ <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+ <img src=".icons/pandas.png" alt="pandas" width="40" height="40"/>
+ </a> 
+ 
+ <a href="https://numpy.org/doc/stable/user/absolute_beginners.html" target="_blank" rel="noreferrer"> 
+  <img src=".icons/numpy.png" alt="numpy" width="40" height="40"/>
+ </a> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+  <img src=".icons/python.jpg" alt="python" width="40" height="40"/>
+ </a> 
+  <a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer"> 
+  <img src=".icons/sheets.png" alt="sheets" width="40" height="40"/>
+ </a> 
+
+</p>
 <br>
 <!-- ## **Trophy**  -->
 <img src="https://github-profile-trophy.vercel.app/?username=aradhya0530&theme=onedark&column=3&margin-w=15&margin-h=15">
