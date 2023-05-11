@@ -81,7 +81,6 @@
 <!-- Stats  -->
 ## 📈 **My Stats**
 <br>
-
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aradhya0530&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aradhya0530&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" />
