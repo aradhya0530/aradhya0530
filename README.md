@@ -31,7 +31,7 @@
 <p align="left"> 
  
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
- <img src=".icons/tableau.png" alt="tableau" width="40" height="40"/> 
+ <img src="icons/tableau.png" alt="tableau" width="40" height="40"/> 
  </a>
  
 <a href="https://www.w3schools.com/html/html_css.asp" target="_blank" rel="noreferrer"> 
@@ -39,37 +39,37 @@
 </a> 
  
 <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> 
- <img src=".icons/colab.png" alt="colab" width="40" height="40"/>
+ <img src="icons/colab.png" alt="colab" width="40" height="40"/>
 </a> 
  
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-<img src=".icons/seaborn.png" alt="seaborn" width="40" height="40"/>
+<img src="icons/seaborn.png" alt="seaborn" width="40" height="40"/>
 </a> 
  
  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
-  <img src=".icons/java.png" alt="java" width="40" height="40"/>
+  <img src="icons/java.png" alt="java" width="40" height="40"/>
  </a> 
  
  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-<img src=".icons/matplotlib.png" alt="matplotlib" width="40" height="40"/>
+<img src="icons/matplotlib.png" alt="matplotlib" width="40" height="40"/>
  </a> 
  
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
- <img src=".icons/sql.png" alt="sql" width="40" height="40"/>
+ <img src="icons/sql.png" alt="sql" width="40" height="40"/>
  </a> 
  
  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
- <img src=".icons/pandas.png" alt="pandas" width="40" height="40"/>
+ <img src="icons/pandas.png" alt="pandas" width="40" height="40"/>
  </a> 
  
  <a href="https://numpy.org/doc/stable/user/absolute_beginners.html" target="_blank" rel="noreferrer"> 
-  <img src=".icons/numpy.png" alt="numpy" width="40" height="40"/>
+  <img src="icons/numpy.png" alt="numpy" width="40" height="40"/>
  </a> 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-  <img src=".icons/python.jpg" alt="python" width="40" height="40"/>
+  <img src="icons/python.jpg" alt="python" width="40" height="40"/>
  </a> 
   <a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer"> 
-  <img src=".icons/sheets.png" alt="sheets" width="40" height="40"/>
+  <img src="icons/sheets.png" alt="sheets" width="40" height="40"/>
  </a> 
 
 </p>
