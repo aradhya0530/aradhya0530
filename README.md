@@ -86,12 +86,16 @@
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aradhya0530&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aradhya0530&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
+
+<!-- <p align="left"> -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aradhya0530&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!--  </p> -->
 <p align = "center">
   
   [![Nayan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aradhya0530&bg_color=000000&color=DF6D74&line=E4BF7A&point=f0f0f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 
-</p>
+</p>                                                             |
 <br>
 <!-- Visitors -->
 ## <b> Visitors</b>
