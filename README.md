@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **my skills and learning new ones.😄**
 - 🌱 I’m currently learning **to improve myself day by day.**
-- 👨‍💻 All of my projects are available at [https://aradhyaportfolio.netlify.app/](https://aradhyaportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available on [https://aradhyaportfolio.netlify.app/](https://aradhyaportfolio.netlify.app/)
 - 📫 How to reach me aradhyasrivastava0504@gmail.com
 - 📄 Know about my experiences [https://drive.google.com/file/d/18NjNFNMt8K-l4NeEIHkWSbLskT4utJ9_/view](https://drive.google.com/file/d/18NjNFNMt8K-l4NeEIHkWSbLskT4utJ9_/view)
 - 👯 I’m collaborator in kaggle, and looking for more collaboration.
