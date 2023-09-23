@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **to improve myself day by day.**
 - 👨‍💻 All of my projects are available on [https://aradhyaportfolio.netlify.app/](https://aradhyaportfolio.netlify.app/)
 - 📫 How to reach me aradhyasrivastava0504@gmail.com
-- 📄 Know about my experiences [https://drive.google.com/file/d/18NjNFNMt8K-l4NeEIHkWSbLskT4utJ9_/view](https://drive.google.com/file/d/18NjNFNMt8K-l4NeEIHkWSbLskT4utJ9_/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1S--JSBSXWqZ3XQxQw_g6sRCoPecfthyG/view?usp=sharing](https://drive.google.com/file/d/1S--JSBSXWqZ3XQxQw_g6sRCoPecfthyG/view?usp=sharing)
 - 👯 I’m collaborator in kaggle, and looking for more collaboration.
 - 🥅 2023 Goals:  Explore more in areas of Machine Learning , Visualisation, Analysis
 - ⚡ Fun fact **I think I like to Analyse.**
@@ -42,16 +42,10 @@
  <img src="icons/colab.png" alt="colab" width="60" height="60"/>
 </a> 
  
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-<img src="icons/seaborn.png" alt="seaborn" width="60" height="60"/>
-</a> 
+
  
  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
   <img src="icons/java.png" alt="java" width="v0" height="60"/>
- </a> 
- 
- <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-<img src="icons/matplotlib.png" alt="matplotlib" width="60" height="60"/>
  </a> 
  
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
