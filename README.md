@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **my skills and learning new ones.😄**
 - 🌱 I’m currently learning **to improve myself day by day.**
-- 👨‍💻 All of my projects are available on [https://aradhya-srivastava.vercel.app/](https://aradhya-srivastava.vercel.app/)
+- 👨‍💻 All of my projects are available on
 - 📫 How to reach me aradhyasrivastava0504@gmail.com
-- 📄 Know about my experiences [https://drive.google.com/file/d/1S--JSBSXWqZ3XQxQw_g6sRCoPecfthyG/view?usp=sharing](https://drive.google.com/file/d/1S--JSBSXWqZ3XQxQw_g6sRCoPecfthyG/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vRkxfi99T1TVOffVNaT4LW_C9aL7ru98/view?usp=drive_link)
 - 👯 I’m collaborator in kaggle, and looking for more collaboration.
-- 🥅 2023 Goals:  Explore more in areas of Machine Learning , Visualisation, Analysis
+- 🥅 2024 Goals:  Explore more in areas of Machine Learning , Visualisation, Analysis
 - ⚡ Fun fact **I think I like to Analyse.**
 <br>
 <h3 align="left">Connect with me:</h3>
