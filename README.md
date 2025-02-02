@@ -7,7 +7,7 @@
  ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4124237+%20Lines%20of%20code-blue)
 
 - 🔭 I’m currently working on **my skills and learning new ones.😄**
-- 👨‍💻 All of my projects are available on 
+- 👨‍💻 All of my projects are available on [https://aradhya-portfolio.vercel.app/?vercelToolbarCode=QT2ZgUpCgz_pSsB]
 - 📫 How to reach me aradhyasrivastava0504@gmail.com
 - 📄 Know about my experiences [https://drive.google.com/file/d/1e26FIgL0RowCUtcFlONA1xsos4-j8Fa_/view?usp=drive_link]
 - 🥅 2025 Goals: Gaining more deeper information in the field of Machine learning and Visualisation
