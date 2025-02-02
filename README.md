@@ -1,7 +1,7 @@
 <b> Hi there, <i>I'm Aradhya Srivastava</i></b> 👋
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 <br>
-<i>I'm an aspiring Data Analyst from Vellore Institute Of Technology , Bhopal</i>
+<i>I'm an aspiring Data Analyst</i>
 <br>
 <br>
  ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4124237+%20Lines%20of%20code-blue)
@@ -9,10 +9,9 @@
 - 🔭 I’m currently working on **my skills and learning new ones.😄**
 - 👨‍💻 All of my projects are available on 
 - 📫 How to reach me aradhyasrivastava0504@gmail.com
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vRkxfi99T1TVOffVNaT4LW_C9aL7ru98/view?usp=drive_link)
-- 👯 I’m collaborator in kaggle, and looking for more collaboration.
-- 🥅 2024 Goals:  Explore more in areas of Machine Learning , Visualisation, Analysis
-- ⚡ Fun fact **I think I like to Analyse.**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1e26FIgL0RowCUtcFlONA1xsos4-j8Fa_/view?usp=drive_link]
+- 🥅 2025 Goals: Gaining more deeper information in the field of Machine learning and Visualisation
+- ⚡ Fun fact **I like to Analyse.**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,7 +19,7 @@
 <a href="https://www.instagram.com/sri_vas_tava1234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sri_vas_tava1234" height="30" width="40" /></a>
 
 
-<a href="https://www.hackerrank.com/aradhyasrivasta1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/aradhyasrivasta1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/siasrivastava231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/siasrivastava231" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aradhyasrivastava0504/" height="30" width="40" /></a>
 </a>
 </p>
@@ -54,15 +53,8 @@
  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
  <img src="icons/pandas.png" alt="pandas" width="60" height="60"/>
  </a> 
- 
- <a href="https://numpy.org/doc/stable/user/absolute_beginners.html" target="_blank" rel="noreferrer"> 
-  <img src="icons/numpy.png" alt="numpy" width="60" height="60"/>
- </a> 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
   <img src="icons/python.jpg" alt="python" width="60" height="60"/>
- </a> 
-  <a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer"> 
-  <img src="icons/sheets.png" alt="sheets" width="60" height="60"/>
  </a> 
 
 </p>
