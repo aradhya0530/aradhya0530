@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **Analytics and Machine learning😄**
 - 👨‍💻 All of my projects are available on [https://aradhya-portfolio.vercel.app/?vercelToolbarCode=QT2ZgUpCgz_pSsB]
 - 📫 How to reach me aradhyasrivastava0504@gmail.com
-- 📄 Know about my experiences [https://drive.google.com/file/d/1e26FIgL0RowCUtcFlONA1xsos4-j8Fa_/view?usp=drive_link]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1S9yyWSRY7HX-JiVxZ_8eCavFGgkEMomd/view?usp=sharing]
 - 🥅 2025 Goals: Gaining more deeper information in the field of Machine learning and Visualisation
 - ⚡ Fun fact **I like to Analyse.**
 <br>
