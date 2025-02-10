@@ -4,7 +4,6 @@
 <i>I'm an aspiring Data Analyst</i>
 <br>
 <br>
- ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4124237+%20Lines%20of%20code-blue)
 
 - 🔭 I’m currently working on **Analytics and Machine learning😄**
 - 👨‍💻 All of my projects are available on [https://aradhya-portfolio.vercel.app/?vercelToolbarCode=QT2ZgUpCgz_pSsB]
